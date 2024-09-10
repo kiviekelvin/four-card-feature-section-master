@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [See solution URL here](https://www.frontendmentor.io/solutions/responsive-four-card-feature-section-SUxP4j_Au2)
+- Live Site URL: [See live site URL here](https://kiviekelvin.github.io/four-card-feature-section-master/)
 
 
 ### Built with
